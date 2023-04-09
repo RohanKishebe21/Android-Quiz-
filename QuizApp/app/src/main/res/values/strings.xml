@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="welcome_text">Привет</string>
+    <string name="welcome_user">Привет, %1$s</string>
+    <string name="welcome_user_debug">Привет, Адольф</string>
+
+    <string name="next_button_text">Продолжить</string>
+    <string name="user_name_debug_value">Адольф</string>
+    <string name="user_name_place_holder">Введите своё имя...</string>
+</resources>
